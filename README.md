@@ -7,11 +7,17 @@ Pymaceuticals Inc. conducted a study with 249 mice diagnosed with SCC (squamous 
 ### Tumor Size Reduction
 - **Capomulin and Ramicane:** The study revealed that both Capomulin and Ramicane were notably effective in reducing tumor size. These two drugs outperformed the other treatment regimens, demonstrating their potential as powerful anti-tumor agents. The visualizations indicate a significant decrease in tumor volume in mice treated with Capomulin and Ramicane, highlighting their therapeutic efficacy.
 
+![Tumor Volume Distribution for Each Treatment Group](https://github.com/thecolombian/Module-5-Challenge/blob/main/Images/Tumor%20Volume%20Distribution%20for%20Each%20Treatment%20Group.png)
+
 ### Correlation Between Mouse Weight and Tumor Volume
 - **Positive Correlation:** A detailed analysis of the data revealed a strong positive correlation (0.84) between the weight of the mice and the average tumor volume. It suggests that as the weight of the mice increased, the average tumor volume also tended to increase. This finding underscores the importance of considering the weight of the mice when evaluating tumor growth and treatment efficacy, as it may influence the overall results.
 
+![Mouse Weight vs Average Observed Tumor Volume for Capomulin Regimen](https://github.com/thecolombian/Module-5-Challenge/blob/main/Images/Mouse%20Weight%20vs%20Average%20Observed%20Tumor%20Volume%20for%20Capomulin%20Regimen.png)
+
 ### Treatment Frequency
 - **Number of Mice Tested:** The bar graph included in the study illustrates that Capomulin and Ramicane were tested on the most significant number of mice. This higher frequency of testing reinforces the reliability of the results and indicates a focused effort to evaluate these two drugs comprehensively. The substantial number of mice tested with Capomulin and Ramicane provides a robust dataset, enhancing the credibility of the findings related to these treatments.
+
+![Total Number of Rows Mouse ID Timepoints for Each Drug Regimen](https://github.com/thecolombian/Module-5-Challenge/blob/main/Images/Total%20Number%20of%20Rows%20Mouse%20IDTimepoints%20for%20Each%20Drug%20Regimen.png)
 
 ## Conclusion
 
